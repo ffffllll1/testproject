@@ -139,8 +139,7 @@ for index, elem in enumerate(my_list):
     print(f'elem: {elem}, index: {index}')
 
 
-
-
+print('f')
 
 
 
